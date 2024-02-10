@@ -1,0 +1,60 @@
+PODS:
+  - Capacitor (5.7.0):
+    - CapacitorCordova
+  - CapacitorApp (5.0.7):
+    - Capacitor
+  - CapacitorBackgroundRunner (1.0.5):
+    - Capacitor
+  - CapacitorCordova (5.7.0)
+  - CapacitorHaptics (5.0.7):
+    - Capacitor
+  - CapacitorKeyboard (5.0.8):
+    - Capacitor
+  - CapacitorStatusBar (5.0.7):
+    - Capacitor
+  - CapacitorWatch (0.1.10):
+    - Capacitor
+    - CapacitorBackgroundRunner
+
+DEPENDENCIES:
+  - "Capacitor (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorApp (from `../../node_modules/@capacitor/app`)"
+  - "CapacitorCordova (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorHaptics (from `../../node_modules/@capacitor/haptics`)"
+  - "CapacitorKeyboard (from `../../node_modules/@capacitor/keyboard`)"
+  - "CapacitorStatusBar (from `../../node_modules/@capacitor/status-bar`)"
+  - "CapacitorWatch (from `../../node_modules/@capacitor/watch`)"
+
+SPEC REPOS:
+  trunk:
+    - CapacitorBackgroundRunner
+
+EXTERNAL SOURCES:
+  Capacitor:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorApp:
+    :path: "../../node_modules/@capacitor/app"
+  CapacitorCordova:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorHaptics:
+    :path: "../../node_modules/@capacitor/haptics"
+  CapacitorKeyboard:
+    :path: "../../node_modules/@capacitor/keyboard"
+  CapacitorStatusBar:
+    :path: "../../node_modules/@capacitor/status-bar"
+  CapacitorWatch:
+    :path: "../../node_modules/@capacitor/watch"
+
+SPEC CHECKSUMS:
+  Capacitor: fc155ee2ee45a2093d716f13cf5aa5a865e2d85a
+  CapacitorApp: 17fecd0e6cb23feafac7eb0939417389038b0979
+  CapacitorBackgroundRunner: f2415aebbcea4e744eb45f785a50f07ba72f1d0b
+  CapacitorCordova: e825fce1a2e14e4b5730641c7e098dccf74397b7
+  CapacitorHaptics: 7c7c206f0c96a628fed073830c96d28c4b2e772e
+  CapacitorKeyboard: aec619a578235c6ce279075009a2689c2cf5c42c
+  CapacitorStatusBar: f390fbb49b82ffb754ea4b3cf71dc8b048baf3e7
+  CapacitorWatch: d73bf668ef061ededb68f4297ef25f16bd131f07
+
+PODFILE CHECKSUM: 2bb3aa71861587844d9fee98172ea1063dd988f0
+
+COCOAPODS: 1.14.3
