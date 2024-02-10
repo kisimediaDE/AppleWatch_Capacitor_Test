@@ -1,0 +1,7 @@
+{
+  "name": "AppleWatchTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
